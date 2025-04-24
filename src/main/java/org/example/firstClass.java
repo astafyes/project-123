@@ -5,4 +5,7 @@ public class firstClass {
         System.out.println("Hello World");
         System.out.println("1243");
     }
+     public static void doSomething(){
+        System.out.println("Hello World again");
+     }
 }
