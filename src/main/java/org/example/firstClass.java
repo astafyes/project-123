@@ -6,8 +6,9 @@ public class firstClass {
         System.out.println("Hello World");
         System.out.println("1243");
         doSomething();
+        System.out.println("---");
     }
      public static void doSomething(){
-        System.out.println("Hello World no longer exists");
+        System.out.println("Hello World not again");
      }
 }
